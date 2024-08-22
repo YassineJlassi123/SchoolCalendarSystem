@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SchoolCalendarSystem\\SchoolCalendarSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68562A-5B1B-4B9F-B6B6-31F0FE22BCA7}|SchoolCalendarSystem.csproj|c:\\schoolcalendarsystem\\schoolcalendarsystem\\services\\scheduleentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68562A-5B1B-4B9F-B6B6-31F0FE22BCA7}|SchoolCalendarSystem.csproj|solutionrelative:services\\scheduleentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68562A-5B1B-4B9F-B6B6-31F0FE22BCA7}|SchoolCalendarSystem.csproj|c:\\schoolcalendarsystem\\schoolcalendarsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68562A-5B1B-4B9F-B6B6-31F0FE22BCA7}|SchoolCalendarSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68562A-5B1B-4B9F-B6B6-31F0FE22BCA7}|SchoolCalendarSystem.csproj|c:\\schoolcalendarsystem\\schoolcalendarsystem\\controllers\\scheduleentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68562A-5B1B-4B9F-B6B6-31F0FE22BCA7}|SchoolCalendarSystem.csproj|solutionrelative:controllers\\scheduleentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SchoolCalendarSystem\\SchoolCalendarSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SchoolCalendarSystem\\SchoolCalendarSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:40:44.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScheduleEntryController.cs",
+              "DocumentMoniker": "C:\\SchoolCalendarSystem\\SchoolCalendarSystem\\Controllers\\ScheduleEntryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScheduleEntryController.cs",
+              "ToolTip": "C:\\SchoolCalendarSystem\\SchoolCalendarSystem\\Controllers\\ScheduleEntryController.cs",
+              "RelativeToolTip": "Controllers\\ScheduleEntryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:40:05.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleEntryService.cs",
+              "DocumentMoniker": "C:\\SchoolCalendarSystem\\SchoolCalendarSystem\\Services\\ScheduleEntryService.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleEntryService.cs",
+              "ToolTip": "C:\\SchoolCalendarSystem\\SchoolCalendarSystem\\Services\\ScheduleEntryService.cs",
+              "RelativeToolTip": "Services\\ScheduleEntryService.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAANkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:38:56.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
